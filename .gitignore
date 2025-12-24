@@ -121,7 +121,7 @@ models/
 *.db
 *.sqlite
 *.sqlite3
-*.mdb
+*.mdbt
 *.accdb
 
 # Large binary files
